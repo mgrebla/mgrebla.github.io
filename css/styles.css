@@ -4800,6 +4800,10 @@ textarea.form-control-lg {
   color: #6c757d;
 }
 
+.projects-items:not(:last-child) { 
+  margin-bottom: 1rem;  
+}
+
 .pagination {
   display: flex;
   padding-left: 0;
