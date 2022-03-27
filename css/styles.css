@@ -577,6 +577,10 @@ progress {
   margin-right: 0.5rem;
 }
 
+.greyer {
+  filter: invert(30%);
+}
+
 .initialism {
   font-size: 0.875em;
   text-transform: uppercase;
