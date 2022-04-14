@@ -571,6 +571,7 @@ progress {
 }
 
 .list-inline-item {
+  margin-top: 0.5rem;
   display: inline-block;
 }
 .list-inline-item:not(:last-child) {
@@ -4800,7 +4801,7 @@ textarea.form-control-lg {
   color: #6c757d;
 }
 
-.projects-items:not(:last-child) { 
+.projects-items:not(:last-child) {
   margin-bottom: 1rem;  
 }
 
